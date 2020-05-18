@@ -5,9 +5,13 @@ Github
 ### 创建本地仓库
 
 `git init`
+
 `git add .`
+
 `git commit -m "first commit"`
+
 `git remote add origin https://github.com/kanonair/gitdemo.git`
+
 `git push origin master`
 
 ### 创建 dev 分支并切换分支
