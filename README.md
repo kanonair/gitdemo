@@ -24,6 +24,12 @@ Github
 
 `git branch`
 
-### 创建分支
+### 克隆后创建分支
+
+`git checkout -b dev origin/dev`
+
+### 得到后面新增的远程分支
+
+`git pull`
 
 `git checkout -b dev origin/dev`
