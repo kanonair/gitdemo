@@ -1,3 +1,5 @@
+Github
+
 ### 创建远程仓库
 
 ### 创建本地仓库
@@ -12,12 +14,11 @@
 
 `git push origin master`
 
-### 创建dev分支并切换分支
+### 创建 dev 分支并切换分支
 
 `git checkout -b dev`
 
 `git push origin dev`
-
 
 ### 克隆
 
